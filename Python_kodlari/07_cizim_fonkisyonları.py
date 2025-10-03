@@ -18,7 +18,7 @@ points = points.reshape((-1, 1, 2))
 cv2.polylines(canvas,[points],True,(0,0,255),3)
 
 #Yazı yazma
-cv2.putText(canvas,"yusuf hiyar midir",(0,400),cv2.FONT_HERSHEY_DUPLEX,2,(20,200,400),1)
+cv2.putText(canvas,"Cizimler ",(0,400),cv2.FONT_HERSHEY_DUPLEX,2,(20,200,400),1)
 
 
 cv2.imshow("Cizimler",canvas)
