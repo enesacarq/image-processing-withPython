@@ -12,13 +12,25 @@ It is a repository where I do basic operations and examples in the field of Imag
 
 ## Çıktılar/Outputs
 
-![Plaka Okuma ](assets/plaka_taniss.png)
+### Plaka Okuma
+<p align="center">
+  <img src="assets/plaka_taniss.png" alt="Plaka Okuma">
+</p>
 
-![Hareket Algilama ](assets/hareket_tanimagif.gif)
+### Hareket Algılama
+<p align="center">
+  <img src="assets/hareket_tanimagif.gif" alt="Hareket Algılama">
+</p>
 
-![Serit Tanıma ](assets/serit_tanimass.png)
+### Şerit Tanıma
+<p align="center">
+  <img src="assets/serit_tanimass.png" alt="Şerit Tanıma">
+</p>
 
-![Madeni Para Tanıma ](assets/madeni_parass.png)
+### Madeni Para Tanıma
+<p align="center">
+  <img src="assets/madeni_parass.png" alt="Madeni Para Tanıma">
+</p>
 
 
 
